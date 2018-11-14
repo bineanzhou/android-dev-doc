@@ -1,5 +1,4 @@
 # android-dev-doc
-TimLiu-Android
 ==============
 
 自己总结的Android开源项目及库。 github排名 [https://github.com/trending](https://github.com/trending),github搜索：[https://github.com/search](https://github.com/search)           
